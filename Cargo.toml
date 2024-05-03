@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "open-with",
+    "open-with-gtk",
+    "open-with-qt",
+]
+
