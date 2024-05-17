@@ -1,8 +1,8 @@
 [workspace]
 
+resolver = "2"
 members = [
     "open-with",
-    "open-with-gtk",
+    "open-with-gtk", "open-with-iced",
     "open-with-qt",
 ]
-

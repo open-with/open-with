@@ -11,5 +11,9 @@ name = "open-with-gtk"
 version = "0.1.0"
 
 [[package]]
+name = "open-with-iced"
+version = "0.1.0"
+
+[[package]]
 name = "open-with-qt"
 version = "0.1.0"
